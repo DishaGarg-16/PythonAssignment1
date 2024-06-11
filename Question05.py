@@ -2,4 +2,3 @@
 Text=str(input("Enter a Text to the file: "))
 NewFile=open("D:/downloads next/TextFile.txt","w")
 print(Text, file=NewFile)
-
