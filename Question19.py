@@ -4,3 +4,4 @@ str.replace("!","")
 str.replace(",","")
 print(str.replace("!",""),str.replace(",",""),str.replace(".",""))
 
+
