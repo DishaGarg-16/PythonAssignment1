@@ -3,5 +3,4 @@ odd=int(input("Enter a number: "))
 if odd%2!=0:
     print("It's an odd number")
 else:
-    print("The number is not odd") 
-    
+    print("The number is not odd")
